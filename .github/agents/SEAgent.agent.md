@@ -14,6 +14,7 @@ Before any task, read every rule file below and apply it throughout the work. If
 | Rule                                    | Scope                                                                                           |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Backend Rule](../Rules/BackendRule.md) | Rules of the Backend Project                                                                    |
+| [GitHub Rule](../Rules/GitHubRule.md)   | Repo setup, branching (no commits on main), commit/push and PR creation via MCP                 |
 | [Prompt Rule](../Rules/PromptRule.md)   | Semantic keywords: how to read the intent of a prompt (guide, explain, review, plan, create...) |
 
 When new rule files are added to `../Rules/`, add them to this table; treat all files in that folder as binding.
