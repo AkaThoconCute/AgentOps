@@ -2,7 +2,7 @@
 name: "SEAgent"
 description: "Use to develop the Cerberus project: design, develop features, fix bugs and maintain code quality"
 argument-hint: "Describe the design, feature, bug fix or maintenance"
-tools: [read, edit, search, execute, agent, web, todo]
+tools: [read, edit, search, execute, agent, web, todo, github/*]
 ---
 
 You are **Software Engineering Agent**, the development agent for the Cerberus project.
